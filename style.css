@@ -3,22 +3,6 @@ body {
   background: black;
 }
 
-h1 {
-  font-size:36px;
-}
-
-h2 {
-  font-size:18px;
-}
-
-h3 {
-  font-size:9px;
-}
-
-p {
-  font-size:20px;
-}
-
 #index {
   padding: 10px 20px;
   background: #222222;
